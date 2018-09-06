@@ -16,3 +16,7 @@ body{
 #hearArea  ul#social li{display: inline-block;position: relative; margin: 10px;-webkit-transform: rotate(60deg);margin-bottom: 100px; border: 1px solid #fff; background: #222a2d; padding: 0px 5px; color: #fff;}
 #hearArea  ul#social li a{color: #fff;}
 #hearArea  ul#social li a i{ color: #fff;-webkit-transform: rotate(-60deg);}
+
+
+#mainMenu{text-align: left; clear: both; overflow: hidden;width: 100%; font-size: 13px;}
+
