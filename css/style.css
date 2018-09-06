@@ -1,3 +1,22 @@
 body{
 	font-family: 'Lora', serif;
 }
+
+#hearArea{border-top: 3px solid #000;width: 100%;position: absolute; text-align: center;}
+#hearArea img{width: 100%;height: auto;}
+
+#hearArea .inner_banner{left: 0;top: 0;width: 100%;height: 100%;position: absolute;}
+#hearArea .inner_text_area{width: 100%;height: 100%; display: table;}
+#hearArea .inner_main_text_banner{display: table-cell; vertical-align: middle;width: 100%;}
+
+#hearArea .inner_main_text_banner h4{font-size: 24.14px;color: #f8f8f8;line-height: 1cm;}
+#hearArea .inner_main_text_banner h2 {font-size: 48px;color: #ffffff;line-height: 1cm; text-transform: uppercase;}
+#hearArea .inner_main_text_banner p{font-size: 14px;color: #f7f7f7;}
+#hearArea  ul#social{margin: 0px;padding: 0px; list-style: none;text-align: center;}
+#hearArea  ul#social li{display: inline-block;position: relative; margin: 10px;-webkit-transform: rotate(60deg);margin-bottom: 100px; border: 1px solid #fff; background: #222a2d; padding: 0px 5px; color: #fff;}
+#hearArea  ul#social li a{color: #fff;}
+#hearArea  ul#social li a i{ color: #fff;-webkit-transform: rotate(-60deg);}
+
+
+#mainMenu{text-align: left; clear: both; overflow: hidden;width: 100%; font-size: 13px;}
+
